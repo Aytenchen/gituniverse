@@ -8,3 +8,4 @@ creating a new branch is quick AND simple
 >>>>>>> featurel
 creating a new branch is quick and simple
 create a new test
+git is free software
